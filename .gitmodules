@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/pinasr/pinasr.r-universe.dev
 	branch = HEAD
+[submodule "ArchipelagoEngine"]
+	path = ArchipelagoEngine
+	url = https://github.com/pinasr/ArchipelagoEngine
+[submodule "roroph"]
+	path = roroph
+	url = https://github.com/pinasr/roroph
