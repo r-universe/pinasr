@@ -1,0 +1,10 @@
+{
+  "id": 124672027,
+  "created_at": "2026-04-17T08:50:58.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["ArchipelagoEngine", "roroph", "pinasr.r-universe.dev"]
+}
