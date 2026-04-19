@@ -4,9 +4,7 @@
 	branch = HEAD
 [submodule "ArchipelagoEngine"]
 	path = ArchipelagoEngine
-	url = https://github.com/pinasr/pinasr
-	subdir = ArchipelagoEngine
+	url = https://github.com/pinasr/ArchipelagoEngine
 [submodule "roroph"]
 	path = roroph
-	url = https://github.com/pinasr/pinasr
-	subdir = roroph
+	url = https://github.com/pinasr/roroph
