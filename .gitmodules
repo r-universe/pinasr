@@ -5,6 +5,9 @@
 [submodule "ArchipelagoEngine"]
 	path = ArchipelagoEngine
 	url = https://github.com/pinasr/ArchipelagoEngine
+[submodule "palettephines"]
+	path = palettephines
+	url = https://github.com/pinasr/palettephines
 [submodule "roroph"]
 	path = roroph
 	url = https://github.com/pinasr/roroph
