@@ -8,6 +8,9 @@
 [submodule "palettephines"]
 	path = palettephines
 	url = https://github.com/pinasr/palettephines
+[submodule "phscs"]
+	path = phscs
+	url = https://github.com/yng-me/phscs
 [submodule "roroph"]
 	path = roroph
 	url = https://github.com/pinasr/roroph
